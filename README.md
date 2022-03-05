@@ -19,7 +19,7 @@ Github：https://github.com/HengY1Sky/
 - Redis
 - Docker
 - 计算机网络 1. 小林公众号 2. Go语言简单实现Http 3. 小白公众号
-- 计算机组成原理 1. B站 2. 小林公众号
+- 计算机操作系统 1. B站 2. 小林公众号
 
 ##  主要记录 📝
 
@@ -32,6 +32,7 @@ Github：https://github.com/HengY1Sky/
 - 小林计算机网络分析到375页
 - 力扣字节 热度优先 中等难度  x 4
 - 虚拟仿真实验决赛Bug修复以及报告实现
+- 王道考研计算机操作系统第一章
 </details>
 
 <details>
