@@ -24,6 +24,17 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220305</summary>
+<h3>什么是周末？</h3>
+
+
+- 《Go语言设计与实现》的第四章
+- 小林计算机网络分析到375页
+- 力扣字节 热度优先 中等难度  x 4
+- 虚拟仿真实验决赛Bug修复以及报告实现
+</details>
+
+<details>
 <summary>20220304</summary>
 
 <h3>开始进入平稳好好备战时间段</h3>
@@ -60,7 +71,7 @@ Github：https://github.com/HengY1Sky/
 - 面经阅览
 - 网课补全
 - 新手50个坑看完
- 
+
 </details>
 
 <details>
