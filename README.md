@@ -14,14 +14,28 @@ Github：https://github.com/HengY1Sky/
 
 目前正在准备字节的日常实习。
 
-- Golang理解
+- Golang理解（结构体排序，slice，array，map创建方式，并发，http，管道）
 - Mysql
 - Redis
 - Docker
 - 计算机网络
 - 计算机操作系统
+- Linux的基础操作
+- RabbitMQ基础
 
 ##  主要记录 📝
+
+<details>
+<summary>20220308</summary>
+<h3>我的电脑CPU烧了</h3>
+
+谁知道呢...我在课上正准备计算机面试的总结，突然黑屏，去修然后CPU接电发烫，现在心态崩溃中
+
+- 小白图解网络OVER
+- 计算机面试总结丢失
+- 王道考研计算机操作系统2.3.7-2.4.4
+- 力扣字节 热度优先 中等难度  x 3
+</details>
 
 <details>
 <summary>20220307</summary>
