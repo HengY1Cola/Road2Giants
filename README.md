@@ -26,6 +26,15 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220309</summary>
+<h3>被迫换上m1</h3>
+
+我还说自己等等m2出来结果这是我最不情愿换电脑的一次。今天出校提货花了很长的时间。然后自己还重新搭配环境所以就看了一章的计算机操作系统
+
+- 王道考研计算机操作系统3.1.1-3.1.11
+</details>
+
+<details>
 <summary>20220308</summary>
 <h3>我的电脑CPU烧了</h3>
 
