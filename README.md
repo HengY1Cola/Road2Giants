@@ -14,7 +14,7 @@ Github：https://github.com/HengY1Sky/
 
 目前正在准备字节的日常实习。
 
-- Golang理解（结构体排序，slice，array，map创建方式，并发，http，管道）
+- Golang理解
 - Mysql
 - Redis
 - Docker
@@ -24,15 +24,22 @@ Github：https://github.com/HengY1Sky/
 - RabbitMQ基础
 
 ##  主要记录 📝
+<details>
+<summary>20220312</summary>
+<h3>周末继续学</h3>
+今天有效学习时间在4个小时左右，被《白夜追凶》解说吸引了（可恶），不过确实挺好看的，明天继续搞。
+
+- 力扣字节 热度优先 中等难度 x 3
+- 小林操作系统完成234章
+- 总结小白Golang面试控制流程/包管理/优化
+</details>
 
 <details>
 <summary>20220311</summary>
 <h3>好好搞完第一阶段</h3>
 
-按照计划第一阶段准备在这周结束。现在抓紧完成计划中。
-
 - 补上上次丢失的计网总结知识
-- 力扣字节 热度优先 中等难度  x 3
+- 力扣字节 热度优先 中等难度 x 3
 - 小林操作系统到119页
 - 总结完Golang语言面试数据结构题
 </details>
