@@ -17,16 +17,27 @@ Github：https://github.com/HengY1Sky/
 - Golang理解
 - Mysql
 - Redis
-- Docker
 - 计算机网络
 - 计算机操作系统
 - Linux的基础操作
-- RabbitMQ基础
 
 ##  主要记录 📝
+
+<details>
+<summary>20220313</summary>
+<h3>平平淡淡才是真</h3>
+
+今天去官网看了看，还是挺想去的。再坚持一周就开始弄项目。
+
+- 力扣字节 热度优先 中等难度 x 3
+- 小白Golang语言面经并发编程/问题排查/部分高级编程
+- 极客时间面试操作系统
+</details>
+
 <details>
 <summary>20220312</summary>
 <h3>周末继续学</h3>
+
 今天有效学习时间在4个小时左右，被《白夜追凶》解说吸引了（可恶），不过确实挺好看的，明天继续搞。
 
 - 力扣字节 热度优先 中等难度 x 3
