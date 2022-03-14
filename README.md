@@ -24,6 +24,16 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220314</summary>
+<h3>最后一周弄完就去投</h3>
+
+回来弄作业去了，正常进度吧。今天看别人的面经又焦虑了。管他的还是不忘初心直接冲！
+
+- 力扣字节 热度优先 中等难度 x 4
+- 小白Golang操作系统
+</details>
+
+<details>
 <summary>20220313</summary>
 <h3>平平淡淡才是真</h3>
 
