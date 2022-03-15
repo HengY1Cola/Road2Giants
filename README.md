@@ -24,6 +24,16 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220315</summary>
+<h3>开始冲击算法了</h3>
+
+陆陆续续弄了一天真的累死，战线太长了。
+
+- 力扣字节 热度优先 中等难度 x 5
+- 各种Mysql相关知识点
+</details>
+
+<details>
 <summary>20220314</summary>
 <h3>最后一周弄完就去投</h3>
 
