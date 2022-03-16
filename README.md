@@ -24,6 +24,16 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220316</summary>
+<h3>太累了</h3>
+
+做了好多题，战线准备太累了。
+
+- 力扣字节 x 13
+- Redis相关面经
+</details>
+
+<details>
 <summary>20220315</summary>
 <h3>开始冲击算法了</h3>
 
