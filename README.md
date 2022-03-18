@@ -24,6 +24,15 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220317</summary>
+<h3>摆烂了</h3>
+
+就做了个算法，然后是有点摆烂的心态了。后面调整好了就把最近的资料翻出来自己总结下。看看还有什么内容需要看。
+
+- 力扣字节 x 6
+</details>
+
+<details>
 <summary>20220316</summary>
 <h3>太累了</h3>
 
