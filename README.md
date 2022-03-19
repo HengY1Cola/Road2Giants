@@ -24,6 +24,24 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220319</summary>
+<h3>简历投递成功，希望能顺利把握住机会</h3>
+
+冲冲冲！！！ 祝我好运吧 🍀
+
+- 网络流量控制-滑动窗口，拥塞控制
+- 三次握手/四次挥手具体状态
+- SSL握手具体交换了什么
+- Redis 基础数据类型与底层
+- Reids 一致性哈希与布隆过滤器
+- Redis 缓存击穿/雪崩
+- Redis AOF/RDB
+- 帅地校招Redis
+- Reids 场景与16道面试题
+- 力扣 X 12
+</details>
+
+<details>
 <summary>20220318</summary>
 <h3>明天就投递</h3>
 
