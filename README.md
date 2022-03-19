@@ -24,6 +24,18 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220318</summary>
+<h3>明天就投递</h3>
+
+最后的冲刺阶段，根据自己的总结差缺补漏
+
+- Linux命令与基础的加固
+- 分布式的处理以及CAP与BASE
+- 力扣 X 7
+- 数据库精选 60 道面试题
+</details>
+
+<details>
 <summary>20220317</summary>
 <h3>摆烂了</h3>
 
