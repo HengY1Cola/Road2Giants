@@ -24,6 +24,21 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220320</summary>
+<h3>希望一切顺利吧</h3>
+
+希望自己能在更高的平台上看看
+
+- 帅地校招计算机操作系统
+- Golang的一些源码
+- span、mspan有什么区别？
+- 什么是RestFul API?
+- IO多路复用以及select，epoll
+- ICMP
+- 力扣 X 9
+</details>
+
+<details>
 <summary>20220319</summary>
 <h3>简历投递成功，希望能顺利把握住机会</h3>
 
