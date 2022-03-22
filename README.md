@@ -24,6 +24,17 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
+<summary>20220321</summary>
+<h3>等消息中ing</h3>
+
+- 死锁的原因以及解决
+- GolangTest的用法
+- Golang范形
+- Golang锁
+- 力扣 X 11
+</details>
+
+<details>
 <summary>20220320</summary>
 <h3>希望一切顺利吧</h3>
 
