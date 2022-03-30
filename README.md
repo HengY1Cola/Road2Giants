@@ -24,7 +24,25 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
-<summary>20220326</summary>
+<summary>20220330</summary>
+<h3>忙大创项目中</h3>
+
+
+- Mysql相关文章
+- 力扣 X 4
+</details>
+
+<details>
+<summary>20220329</summary>
+<h3>写了“点”脚本</h3>
+
+动动手写了写自己觉得不错的脚本
+
+- 力扣 X 2
+</details>
+
+<details>
+<summary>20220328</summary>
 <h3>又是新的一周还是没有电话</h3>
 
 摆正了心态，刷题与努力吧
