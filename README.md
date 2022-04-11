@@ -24,7 +24,29 @@ Github：https://github.com/HengY1Sky/
 ##  主要记录 📝
 
 <details>
-<summary>20220408</summary>
+<summary>20220410</summary>
+<h3>兴奋又紧张</h3>
+
+- 智力题/大数题
+- 项目
+- 面经
+- 题目：518 377 139 113 739 48 70 26 198
+</details>
+
+<details>
+<summary>20220410</summary>
+<h3>数据库/力扣</h3>
+
+- Mysql
+- Reids
+- 自问自答
+- 密码
+- 数据结构
+- 重做的题目：15 452 4 20 695 51 46 78 322
+</details>
+
+<details>
+<summary>20220409</summary>
 <h3>计算机网络/操作系统/力扣</h3>
 
 - 计算机网络
