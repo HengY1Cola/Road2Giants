@@ -2,7 +2,7 @@
 
 ## 简单介绍 👋
 
-鄙人2020级本科学生，已经不打算考研了。**于2022年正式向大厂发起冲击**
+已在2022-04收到了**字节跳动实习offer**；Base：广州
 
 个人主页：https://hengy1.top/
 
@@ -16,6 +16,7 @@ Github：https://github.com/HengY1Sky/
 - 04-12 飞书人力套件一面
 - 04-15 飞书人力套件二面
 - 04-21 飞书人力套件三面
+- 04-26 OC
 
 ## 面试准备
 
@@ -30,5 +31,9 @@ Github：https://github.com/HengY1Sky/
 - SQL语句基础准备
 - 算法题200道左右
 
+##  推荐文章：
 
+- [大二拿下字节Offer究极面试经验](https://www.nowcoder.com/discuss/943561) 
+- [22年字节跳动飞书人力套件实习一二三面经（已OC）](https://www.nowcoder.com/discuss/942754)
 
+> 接受本校的简历修改，内推等服务～
